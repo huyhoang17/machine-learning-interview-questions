@@ -15,6 +15,22 @@ Just a reminder.
 
 ### Traditional ML approaches
 
+- Linear Regression
+
+- Logistic Regression
+
+- KNN
+
+- KMean
+
+- SVM
+
+- Decision Tree - Random Forest
+
+- Naive Bayes
+
+- PCA
+
 ### CNN
 
 ### RNN
